@@ -61,5 +61,3 @@ Welcome to the Git and GitHub Frequently Asked Questions (FAQ) section for our p
     - [ ] You cannot contribute to this project.
     - [ ] To contribute, write a letter to the project owner.
     - [ ] Fork the repository, clone your fork, create a new branch, make changes, and create a pull request.
-
----
